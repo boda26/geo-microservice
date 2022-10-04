@@ -1,4 +1,4 @@
-# mix_microservice
+# geo-microservice
 # Project MIX: API Documentation
 Created by Boda Song, Harry Xia
 **Overview**
